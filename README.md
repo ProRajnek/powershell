@@ -1,0 +1,2 @@
+# powershell
+Mewtwo a legjobb-
